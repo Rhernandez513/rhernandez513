@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rhernandez513)](https://github.com/ryo-ma/github-profile-trophy&rank=-C&column=6)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhernandez513)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rhernandez513)](https://git.io/streak-stats)
 
 - Most Recent Team: https://devblogs.microsoft.com/ise/
 - 🔭 I’m currently working on https://github.com/sysec-uic/AutoPatch-LLM
