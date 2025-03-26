@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there I'm Robert David 👋
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rhernandez513&count_private=true&show_icons=true&theme=onedark)]()
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rhernandez513)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Rhernandez513/rhernandez513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
