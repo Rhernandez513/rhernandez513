@@ -1,6 +1,5 @@
 ## Hi there I'm Robert David 👋
 ### A Software Engineer that loves to learn, write code, and delight customers
-### Most Recent Team: https://devblogs.microsoft.com/ise/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robhernandez5)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://account.venmo.com/u/Robert-Hernandez-29)
 [![Profile Views](https://komarev.com/ghpvc/?username=rhernandez513&label=Profile%20views&color=0e75b6&style=flat)]()
@@ -12,6 +11,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhernandez513)](https://git.io/streak-stats)
 
+- Most Recent Team: https://devblogs.microsoft.com/ise/
 - 🔭 I’m currently working on https://github.com/sysec-uic/AutoPatch-LLM
 - ⚡ Fun fact: I play guitar 🎸 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavidsMusic1)
 
