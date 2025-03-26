@@ -12,7 +12,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhernandez513)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on https://github.com/sysec-uic/AutoPatch-LLM
-- ⚡ Fun fact: I play electric guitar 🎸 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavidsMusic1)
+- ⚡ Fun fact: I play guitar 🎸 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavidsMusic1)
 
 <!--
 **Rhernandez513/rhernandez513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
