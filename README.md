@@ -6,7 +6,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rhernandez513&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&show=prs_merged,prs_merged_percentage)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhernandez513&layout=compact&langs_count=10&hide=html,objective-c,jupyter%20notebook)](https://github.com/rhernandez513/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rhernandez513)](https://github.com/ryo-ma/github-profile-trophy&rank=-C&row=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rhernandez513)](https://github.com/ryo-ma/github-profile-trophy&rank=-C&column=6)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhernandez513)](https://git.io/streak-stats)
 
