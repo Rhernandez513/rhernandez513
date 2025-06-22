@@ -11,6 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rhernandez513)](https://git.io/streak-stats)
 
 - Most Recent Team: https://devblogs.microsoft.com/ise/
+- Computer Science & Software Engineering Book Recommendations: [GoodReads](https://www.goodreads.com/user/show/191392890-robert-david-hernandez) 
 - 🔭 I’m currently working on https://github.com/sysec-uic/AutoPatch-LLM
 - ⚡ Fun fact: I play guitar 🎸 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavidsMusic1)
 
